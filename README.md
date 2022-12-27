@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=B1B2FF&height=150&section=header&text=HyeonJin%20Lim&fontSize=70&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeonJin%20Lim&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 
 
