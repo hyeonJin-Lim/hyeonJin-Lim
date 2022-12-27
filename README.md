@@ -13,10 +13,18 @@ Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 
 ### My 📝, Skill Set
-- **❤️Backend  :** / Java / 
+- **❤️Backend  :** / Java / Spring / SpringBoot
 - **💙Collaboration :** / Slack / Discord /
 
 </br>
+
+**학습용 계정 깃허브**
+
+![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini5&show_icons=true&theme=cobalt)
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
 </br>
 </br>
 
