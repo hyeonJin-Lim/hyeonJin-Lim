@@ -11,13 +11,22 @@ Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 </br>
 
-### My 📝, Skill Set
-- **❤️Backend  :** / Java / Spring / SpringBoot
-- **💙Collaboration :** / Slack / Discord /
-
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></p>&nbsp 
+  
+  
+<h3 align="center">Framework & Library</h3>
+<p align="center">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  
+</br>
 </br>
 
-**학습용 계정 깃허브**
+<h3>학습용 계정 깃허브</h3>
 
 ![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini5&show_icons=true&theme=cobalt)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim789789)](https://solved.ac/lim789789/)
@@ -25,35 +34,10 @@ Please look forward to my introductory posts that will gradually fill up.😊
 </br>
 
 <div align="center">
-<h3> 🧸 Me 🧸 </h3>
+<h3> 🧸 Follow Me 🧸 </h3>
  
 [![Tistory Badge](https://img.shields.io/badge/-Tech%20Blog-00acee?style=flat&logo=Tistory&logoColor=white&link=[https://hjstoryy.tistory.com/](https://hjstoryy.tistory.com/))](https://hjstoryy.tistory.com/)
-
+<a href="mailto:lim789789@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=lim789789@naver.com"/></a>
+</p>
 </div>
-
-
-<!--
-/ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> / 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>/ 
-
-
-- **💛DevOps   :** / AWS / K8S / Docker /
-- **💚Frontend :** / HTML5 / CSS3(SCSS) / JS(ES6) / React / Flutter /
-
-**jini5/jini5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
